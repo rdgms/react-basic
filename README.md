@@ -1,23 +1,25 @@
 # React + Mobx
 
 
-##Setup
+## Setup
 
-###Install node
+### Install node
+    
+  Using terminal:
   
-  Install NVM: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash`
+  Install NVM: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash` 
   
   Install node : `nvm install 6.9.1`
+  
 
-###Install yarn
+### Install yarn
 
  `npm install -g yarn`
 
-###Install dependencies
+### Install dependencies
 
  `yarn`
 
-
-##Use
+## Use
 
  `yarn start`
